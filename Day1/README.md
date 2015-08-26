@@ -13,7 +13,7 @@ Use .captialize to captialize your name
 
 Use .downcase to put your name in all lower case
 
-Get user input usiing gets.chomp and display results to the screen
+Get user input using gets.chomp and display results to the screen
 
 Create array of your favorite cars, books or movies of 3 or more.
 
