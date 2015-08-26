@@ -11,4 +11,4 @@ Currently using slack channel Ruby Developers. Group named #beginners_and_mentor
 Would like to have a codementor once a week maybe do a hangout to explain in more detail abstractions and questions we can't answer as a group.
 
 #What if I still need more help?
-Then you really do need help.
+Then you really do need help...
