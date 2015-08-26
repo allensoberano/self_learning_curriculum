@@ -32,4 +32,5 @@ Although this curriculum is for newbies to work on together, this assignment ass
 http://www.codeacademy.com
 http://www.codeschool.com
 
-#feel free to add more resources and links to this file that "Pertain" to the assignment above.
+#RESOURCS:
+Feel free to add more resources and links to this file that "Pertain" to the assignment above.
